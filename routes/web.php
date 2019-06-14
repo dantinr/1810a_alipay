@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+//支付宝支付
+Route::get('/alipay','Pay\AlipayController@pay');
