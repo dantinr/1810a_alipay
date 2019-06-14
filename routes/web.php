@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 //支付宝支付
 Route::get('/alipay','Pay\AlipayController@pay');
+Route::get('/pay/go','Pay\AlipayController@payGo');

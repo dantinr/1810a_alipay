@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <button>去支付</button>
+                    <a target="_blank" href="/pay/go">去支付</a>
                 </div>
             </div>
         </div>
