@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    去支付
+                    <button>去支付</button>
                 </div>
             </div>
         </div>
